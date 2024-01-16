@@ -57,7 +57,7 @@ header a {
 }
 
 .active {
-    color: orangered;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 
@@ -90,6 +90,13 @@ nav {
 /* Main Content */
 main{
     background-color: rgb(78, 167, 148);
+    /* Makes main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    margin-top: 47px;
+    /* Enable flex properties for child element */
+    display: flex;
+    flex-direction: column;
+
 }
 
 /* Footer */
