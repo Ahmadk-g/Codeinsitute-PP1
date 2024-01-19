@@ -45,7 +45,7 @@ justify-content: space-between;
 }
 
 
-#logo-image1{
+#logo-image{
     display: none;
 }
 
@@ -105,10 +105,35 @@ main{
     /* Enable flex properties for child element */
     display: flex;
     flex-direction: column;
+}
 
+#hero{
+    background: url("../images/3dprinter-hero.webp") no-repeat center center/cover fixed;
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+
+#cover-text{
+    background-color: rgba(41, 39, 45, 0.9);
+    position: relative;
+    top: 60px;
+    left: 30px;
+    width: 80%;
+    min-height: 100px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 0px #C70DE8 ;
+}
+
+#cover-text>h2{
+    color: rgb(237, 232, 238);
+    letter-spacing: 1px;
+    font-size: 20px;
 }
 
 /* Footer */
 footer{
-    background-color: rgb(134, 88, 192);
+    background-color: rgb(182, 62, 150);
 }
