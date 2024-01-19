@@ -36,7 +36,7 @@ h1, h2, h3 {
 header{
 background-color: #4024df;
 background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1)  );
-padding: 0 1rem 0 0.5rem;
+padding: 0 1rem;
 position: fixed;
 z-index: 99;
 width: 100%;
@@ -208,7 +208,7 @@ footer{
 
 #social-networks i {
     font-size: 1.6rem;
-    padding: 0 30px;
+    padding: 5%;
     color: #3a3a3a;
 }
 
