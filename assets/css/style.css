@@ -151,9 +151,11 @@ main>div{
     border-bottom: 1px solid #3a3a3a;
 }
 
+
 /* About section */
 #about-us{
-    background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );
+    background: transparent;
+    /*background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );*/
     padding: 20px 20px;
 }
 
@@ -169,7 +171,7 @@ main>div{
     width: 100%;
     left: 0;
     padding: 1.5rem 1rem;
-    box-shadow: -50px 5px 20px 0px #4834e2, 0 2px 2px #C70DE8 ;
+
     display: inline-block;
     
 }
@@ -192,9 +194,22 @@ main>div{
 
 /* Footer */
 footer{
-    background-color: rgb(182, 62, 150);
-    position:relative;
-    bottom: 0;
+    background-color: rgb(94, 62, 182);
+    margin-top: 30px;
+}
+
+#social-networks {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 1.6rem;
+    padding: 0 30px;
+    color: #3a3a3a;
 }
 
 
