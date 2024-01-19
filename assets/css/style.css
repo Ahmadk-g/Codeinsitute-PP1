@@ -138,26 +138,39 @@ main{
     font-size: 20px;
 }
 
+main>div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+/* get started? */
+
+#get-started>h3{
+    padding-left: 10px;
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* About section */
 #about-us{
     background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );
-    padding-top: 20px;
+    padding: 20px 20px;
 }
 
-#about-sum{
-    display: flex;
-    align-items: baseline;
+#about-us>h2{
+    margin-bottom: 5px;
+    text-align: center;
 }
 
 #summary {
     position: relative;
-    background:  rgba(134, 115, 193, 0.4);
+    background:  rgba(134, 115, 193, 0.2);
     color: #252525;
     width: 100%;
     left: 0;
-    padding: 0 1rem;
+    padding: 1.5rem 1rem;
     box-shadow: -50px 5px 20px 0px #4834e2, 0 2px 2px #C70DE8 ;
-    display: none;
+    display: inline-block;
     
 }
 
@@ -175,6 +188,7 @@ main{
     margin-left: 1rem;
 }
 
+/* about toggle */
 
 /* Footer */
 footer{
@@ -233,6 +247,18 @@ footer{
     #cover-text{
         width: 270px;
         left: 50px;
+    }
+
+    #summary{
+        display: block;
+    }
+
+}
+/* Media query: Larger devices (laptops and desktops) (992px and up) */
+@media screen and (min-width: 992px) {
+
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
     }
 
 }
