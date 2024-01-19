@@ -28,9 +28,12 @@ h1, h2, h3 {
 
 
 /* Header */
+
+
 header{
 background-color: #4024df;
-padding: 0 1rem;
+background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1)  );
+padding: 0 1rem 0 0.5rem;
 position: fixed;
 z-index: 99;
 width: 100%;
@@ -40,6 +43,12 @@ align-items: baseline;
 justify-content: space-between;
 
 }
+
+
+#logo-image1{
+    display: none;
+}
+
 
 header a {
     text-decoration: none;
@@ -92,7 +101,7 @@ main{
     background-color: rgb(78, 167, 148);
     /* Makes main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 45px;
     /* Enable flex properties for child element */
     display: flex;
     flex-direction: column;
