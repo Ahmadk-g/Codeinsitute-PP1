@@ -1,6 +1,7 @@
 /* Google fonts import */
 /** would change later **/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 /*Asterisk wildcard selector to override default styles added by the browser*/
 * {
@@ -16,9 +17,11 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #252525;
-    font-family: "Lato", sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+    /*font-family: "Lato", sans-serif;*/
 }
 
+/* header element stylings */
 h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
@@ -37,14 +40,14 @@ padding: 0 1rem 0 0.5rem;
 position: fixed;
 z-index: 99;
 width: 100%;
-box-shadow: 0 2px 2px #3a3a3a;
+box-shadow: 0 2px 2px #3a3a3a ;
 display: flex;
 align-items: baseline;
 justify-content: space-between;
 
 }
 
-
+/* not optimaly fitting in mobile view */
 #logo-image{
     display: none;
 }
@@ -74,10 +77,11 @@ header a {
 nav {
     position: absolute;
     background-color: #4024df;
+    background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1)  );
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: -50px 5px 20px 0px #4834e2, 0 2px 2px #C70DE8 ;
     display: none;
     top: 100%;
 }
@@ -98,7 +102,8 @@ nav {
 
 /* Main Content */
 main{
-    background-color: rgb(78, 167, 148);
+    background-color: #4024df;
+    background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );
     /* Makes main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
@@ -116,10 +121,10 @@ main{
 
 #cover-text{
     background-color: rgba(41, 39, 45, 0.9);
-    position: relative;
-    top: 60px;
-    left: 30px;
-    width: 80%;
+    position: absolute;
+    bottom: 80px;
+    left: 10px;
+    width: 90%;
     min-height: 100px;
     padding: 10px 10px 10px 10px;
     text-align: center;
@@ -133,7 +138,101 @@ main{
     font-size: 20px;
 }
 
+/* About section */
+#about-us{
+    background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );
+    padding-top: 20px;
+}
+
+#about-sum{
+    display: flex;
+    align-items: baseline;
+}
+
+#summary {
+    position: relative;
+    background:  rgba(134, 115, 193, 0.4);
+    color: #252525;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: -50px 5px 20px 0px #4834e2, 0 2px 2px #C70DE8 ;
+    display: none;
+    
+}
+
+
+/* about toggle */
+#about-toggle:checked~#summary {
+   display: block;
+}
+#about-toggle{
+    display: none;
+}
+
+.about-toggle-label {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+
 /* Footer */
 footer{
     background-color: rgb(182, 62, 150);
+    position:relative;
+    bottom: 0;
+}
+
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width:768px) {
+
+     /* Header */
+     nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        background: transparent;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo-text {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem
+    }
+
+    #logo{
+        display: flex;
+        align-items: center;
+    }
+
+    #logo-image{
+        display: inline-block;
+    }
+
+    /* Main */
+    /* push main content down to give space to larger header*/
+    main{
+        margin-top: 100px;
+    }
+    
+    #cover-text{
+        width: 270px;
+        left: 50px;
+    }
+
 }
