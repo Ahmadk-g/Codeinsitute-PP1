@@ -233,6 +233,12 @@ main>div{
     margin-left: 2rem;
 }
 
+#technologies video{
+    position: absolute;
+    right: 70px;
+    top: 270px;
+}
+
 /* steps section */
 #steps{
     align-items: center;
@@ -280,7 +286,7 @@ main>div{
     height: 2px;
 }
 
-#step-photo{
+#step-photo1{
     object-fit: fill;
     position: relative;
     left: 0;
@@ -392,7 +398,7 @@ footer{
 
     /* product page */
     #technologies{
-        display: block;
+        display: flex;
     }
 
     #step-divs{
