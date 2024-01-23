@@ -29,6 +29,9 @@ h1, h2, h3 {
     color: #b8b8b8
 }
 
+h2,h3{
+    color: #3a3a3a
+}
 
 /* Header */
 
@@ -103,19 +106,21 @@ nav {
 /* Main Content */
 main{
     background-color: #4024df;
-    background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );
+    background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
+    /*background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );*/
     /* Makes main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 45px;
     /* Enable flex properties for child element */
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 #hero{
     background: url("../images/3dprinter-hero.webp") no-repeat center center/cover fixed;
     width: 100%;
-    height: 550px;
+    height: 600px;
     position: relative;
 }
 
@@ -147,13 +152,42 @@ main>div{
 
 /* get started? */
 
+#get-started{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #get-started>h3{
-    padding-left: 10px;
-    border-bottom: 1px solid #3a3a3a;
+    margin: 3rem 1rem 2rem;
+    padding: 0px 5px 2px 5px;
+    text-align: center;
+    text-decoration: underline 1px solid #3a3a3a;
+}
+
+#get-started a{
+    text-decoration: none;
+    border: 2px groove #3a3a3a;
+    background-color: #4024df;
+    color: #d5d5d5;
+    margin: 0 1rem;
+    padding: 1.5rem;
+    border-radius: 200px;
+    text-align: center;
 }
 
 
+
+
 /* About section */
+
+#about-us>h2{
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    text-align: center;
+
+}
+
 #about-us{
     background: transparent;
     /*background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );*/
@@ -161,11 +195,6 @@ main>div{
     width: 100%;
     display: flex;
     flex-direction: column;
-}
-
-#about-us>h2{
-    margin-bottom: 5px;
-    text-align: center;
 }
 
 #summary {
@@ -200,43 +229,64 @@ main>div{
 
 /* products page */
 
+
 #products-main{
     background-color: #4024df;
     background-image: linear-gradient( to bottom right rgba(112, 32, 177, 0.5), rgba(76, 6, 206, 0.5));
     display: flex;
+    align-items: normal;
 
 }
 
 #technologies{
     display: none;
     padding: 2rem;
+    margin: 20px 80px;
 }
+
 
 
 
 #tech-points {
-    margin: 20px 40px;
+    margin: 40px 0;
     padding: 20px 40px;
     width: 50%;
-    background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
+    /*background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
     border-radius: 20px;
-    box-shadow: 0px 0px 5px 3px rgba(76, 6, 206, 0.8);
+    box-shadow: 0px 0px 5px 3px rgba(76, 6, 206, 0.8);*/
     color:#1f1f1f;
+}
+
+#first-p{
+    /*background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
+    border-radius: 20px 20px 0 0;
+    padding: 2px 10px;*/
+}
+#last-p{
+    /*background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
+    border-radius: 0 0 20px 20px;
+    padding: 2px 10px;*/
 }
 
 .list-heading{
     font-weight: bold;
+    background-image: linear-gradient(to right, rgb(229 198 255 / 50%), rgb(161 45 255 / 50%));
+    border-radius: 20px;
+    list-style-position: inside;
+    padding: 2px 10px;
+    box-shadow: 0px 0px 5px 3px rgba(76, 6, 206, 0.8), 65px 0px 5px 3px rgba(76, 6, 206, 0.8), 30px 0px 5px 0px #C70DE8 ;;
 }
 
 .list-info{
     font-weight: 400;
-    margin-left: 2rem;
+    margin-left: 1rem;
 }
 
 #technologies video{
     position: absolute;
     right: 70px;
     top: 270px;
+    display: none;
 }
 
 /* steps section */
@@ -315,10 +365,7 @@ main>div{
     width: 15%;
 }
 
-#models a:hover{
-    background-color: #d5d5d5;
-    color: #1f1f1f;
-}
+
 
 /* Footer */
 footer{
@@ -399,8 +446,11 @@ footer{
     /* product page */
     #technologies{
         display: flex;
+        flex-direction: column;
     }
-
+    #tech-points{
+        width: 80%;
+    }
     #step-divs{
         width: 80%;
         font-size: medium;
@@ -423,6 +473,35 @@ footer{
         font-size: medium;
     }
 
+    #get-started a:hover{
+        background-color: rgba(112, 32, 177, 1);
+        box-shadow:  0px 5px 20px 0px #4024df ;
+    }
 
+    #tech-points{
+        width: 50%;
+    }
+
+    #technologies video{
+        position: absolute;
+        right: 70px;
+        top: 270px;
+        display: block;
+    }
+
+    #models a:hover{
+        background-color: #d5d5d5;
+        color: #1f1f1f;
+    }
+
+    #get-started{
+        width: 60%;
+    }
+
+    #get-started a{
+        width: 300px;
+       
+    }
+    
 
 }
