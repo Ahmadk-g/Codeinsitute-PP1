@@ -364,6 +364,19 @@ main>div{
     border-radius: 5px;
     width: 15%;
 }
+/* form section */
+
+#form-section{
+    margin-bottom: 50px;
+    margin: 10px;
+    width: 90%;
+}
+
+#order-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.4);
+    padding: 5px;
+}
 
 
 
@@ -501,6 +514,10 @@ footer{
     #get-started a{
         width: 300px;
        
+    }
+
+    .text-input:hover {
+        border-color: #d86bf1
     }
     
 
