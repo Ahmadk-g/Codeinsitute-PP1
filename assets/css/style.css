@@ -401,27 +401,53 @@ fieldset{
     margin-bottom: 10px;
 }
 
-fieldset>div{
+ fieldset>div{
     width: 90%;
-    margin-bottom: 10px;
-}
+    margin: 15px 0;
+    line-height: 17px;
+} 
+
 
 .text-input{
     padding: 2px;
     border-radius: 1px;
-    margin: 2px 2px 5px 3px;
+    margin: 10px 2px 5px 3px;
     background: transparent;
     border: 1px solid #fafafa;
     width: 100%;
 }
 
-.input-divs{
+.color-input-divs{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
-.input-divs input{
+.color-input-divs input{
     margin-top: 5px;
+}
+
+
+fieldset span{
+    font-size: 11px;
+}
+
+textarea::placeholder{
+    color: #b8b8b8;
+}
+
+.radio-buttons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+#order-button{
+    margin: 15px 0 2px;
+    padding: 5px 8px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+
 }
 
 
@@ -586,6 +612,10 @@ footer{
 
     fieldset>div{
         width: 40%;
+    }
+
+    #order-button:hover{
+        box-shadow: none;
     }
     
 

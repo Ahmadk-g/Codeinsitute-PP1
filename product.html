@@ -155,7 +155,7 @@
                         <input class="text-input" id="item-url" type="url" name="item-url">
                         <br>
                     </div>
-                    <div class="input-divs">
+                    <div class="color-input-divs">
                         <div>
                             <label for="primary-color">Primary color</label>
                             <br>
@@ -169,22 +169,28 @@
                             <br>
                         </div>
                     </div>
-                    <label for="more-colors">detailed color scheme</label>
-                    <br>
-                    <textarea name="more-colors" id="more-colors" rows="3" cols="20"></textarea>
-                    <br>
+                    <div>
+                        <label for="more-colors">Detailed color scheme <span>(if 3 colors or more)</span></label>
+                        <br>
+                        <textarea class="text-input" name="more-colors" id="more-colors" placeholder="Blue, Red, Green" rows="3" ></textarea>
+                        <br>
+                    </div>
                     <label for="radio-buttons">Material:</label>
                     <div class="radio-buttons" id="radio-buttons">
                         <div>
                             <label for="pla">PLA</label>
-                            <input id="pla" name="pla" value="PLA" type="radio">
+                            <input id="pla" name="printing-material" value="PLA" type="radio">
                         </div>
                         <div>
                             <label for="abs">ABS</label>
-                            <input id="abs" name="abs" value="ABS" type="radio">
+                            <input id="abs" name="printing-material" value="ABS" type="radio">
+                        </div>
+                        <div>
+                            <label for="petg">PETG</label>
+                            <input id="petg" name="printing-material" value="petg" type="radio">
                         </div>
                     </div>
-                    <input id="Oder-button" type="submit" value="Place Order">
+                    <input class="link-button" id="order-button" type="submit" value="Place Order">
 
 
                 </fieldset>
