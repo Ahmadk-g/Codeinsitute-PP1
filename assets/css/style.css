@@ -576,6 +576,10 @@ footer i{
         width: 60%;
     }
 
+    #sites-form{
+         padding: 0 20px; 
+    }
+
     
 }
 /* Media query: Larger devices (laptops and desktops) (992px and up) */

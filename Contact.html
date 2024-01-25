@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Meta tags for search engines-->
+    <meta name="description" content="Imagin3D. 3d print ideas">
+    <meta name="keywords" content="3d printing, 3d modeling">
+    <!--title-->
+    <title>Imagine3D</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
+    <!-- link to style sheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <header>
+        <div id="logo">
+            <a href="index.html">
+                <h1 id="logo-text">Imagine3D</h1>
+            </a>
+            <img id="logo-image" src="assets/images/3dcubicles.png" alt="3d cubes logo" width="100">
+        </div>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="product.html" >Products/services</a></li>
+                <li><a href="Contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <form id="contact-form" action="https://formdump.codeinstitute.net" method="post">
+                <h2>Inquery zone. We're ready to answer!</h2>
+                <div>
+                    <label class="labels" for="name">Name</label>
+                    <br>
+                    <input class="text-input" id="name" type="text" name="name" required>
+                    <br>
+                </div>
+                <div>
+                    <label class="labels" for="email-address">Email Address</label>
+                    <br>
+                    <input class="text-input" id="email-address" type="email" name="email-address" required>
+                    <br>
+                </div>
+                <div>
+                    <label for="item-url">Item design URL</label>
+                    <br>
+                    <input class="text-input" id="item-url" type="url" name="item-url" required>
+                    <br>
+                </div>
+                <div class="color-input-divs">
+                    <div>
+                        <label for="primary-color">Primary color</label>
+                        <br>
+                        <input type="color" name="primary-color" id="primary-color" required>
+                        <br>
+                    </div>
+                    <div>
+                        <label for="secondary-color">Secondary color</label>
+                        <br>
+                        <input type="color" name="secondary-color" id="secondary-color" required>
+                        <br>
+                    </div>
+                </div>
+                <div>
+                    <label for="more-colors">Detailed color scheme <span>(if 3 colors or more)</span></label>
+                    <br>
+                    <textarea class="text-input" name="more-colors" id="more-colors" placeholder="Blue, Red, Green" rows="3" ></textarea>
+                    <br>
+                </div>
+                <label for="radio-buttons">Material:</label>
+                <div class="radio-buttons" id="radio-buttons">
+                    <div>
+                        <label for="pla">PLA</label>
+                        <input id="pla" name="printing-material" value="PLA" type="radio" required>
+                    </div>
+                    <div>
+                        <label for="abs">ABS</label>
+                        <input id="abs" name="printing-material" value="ABS" type="radio" required>
+                    </div>
+                    <div>
+                        <label for="petg">PETG</label>
+                        <input id="petg" name="printing-material" value="petg" type="radio" required>
+                    </div>
+                </div>
+                <input class="link-button" id="order-button" type="submit" value="Place Order">
+
+            </form>
+
+        </section>
+    </main>
+    <footer>
+        <p>Find us <i class="fa-regular fa-hand-point-down"></i></p>
+        <ul id="social-networks">
+            
+
+            <li><a href="https://www.facebook.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (open in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li><a href="https://twitter.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our twitter page (open in a new tab)"><i
+                        class="fa-brands fa-square-twitter"></i></a>
+            </li>
+            <li><a href="https://www.youtube.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our youtube page (open in a new tab)"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener"
+                    aria-label="Visit our instagram page (open in a new tab)"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+        </ul>
+        <p>Copyright © imagine3D 2023</p>
+    </footer>
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/7fa9dd4cad.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
