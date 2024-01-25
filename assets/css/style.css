@@ -453,12 +453,10 @@ textarea::placeholder{
 #sites-form{
     display: flex;
     flex-wrap: wrap;
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }
 
 #sites-form>section{
-    padding: 25px 60px;
-    flex-basis: 200px;
     flex-grow: 1;
 }
 
@@ -466,7 +464,12 @@ textarea::placeholder{
 /* Footer */
 footer{
     background-color: rgb(94, 62, 182);
-    margin-top: 30px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer i{
+    padding-left: 5px;
 }
 
 #social-networks {
@@ -479,8 +482,11 @@ footer{
 
 #social-networks i {
     font-size: 1.6rem;
-    padding: 5%;
     color: #3a3a3a;
+}
+
+#social-networks li{
+    padding: 0 15px;
 }
 
 
@@ -569,6 +575,8 @@ footer{
     #radio-buttons{
         width: 60%;
     }
+
+    
 }
 /* Media query: Larger devices (laptops and desktops) (992px and up) */
 @media screen and (min-width: 992px) {
