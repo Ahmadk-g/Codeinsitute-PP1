@@ -419,7 +419,7 @@ fieldset{
 
 .color-input-divs{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
 }
 
@@ -448,6 +448,18 @@ textarea::placeholder{
     border-radius: 5px;
     font-size: 0.9rem;
 
+}
+
+#sites-form{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20px;
+}
+
+#sites-form>section{
+    padding: 25px 60px;
+    flex-basis: 200px;
+    flex-grow: 1;
 }
 
 
@@ -553,6 +565,10 @@ footer{
         display: none;
     }
 
+
+    #radio-buttons{
+        width: 60%;
+    }
 }
 /* Media query: Larger devices (laptops and desktops) (992px and up) */
 @media screen and (min-width: 992px) {
@@ -607,11 +623,11 @@ footer{
     }
 
     #order-form {
-        width: 50%;
+        width: 90%;
     }
 
     fieldset>div{
-        width: 40%;
+        width: 60%;
     }
 
     #order-button:hover{
