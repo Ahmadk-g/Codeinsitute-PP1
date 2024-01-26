@@ -35,7 +35,6 @@ h2,h3{
 
 /* Header */
 
-
 header{
 background-color: #4024df;
 background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1)  );
@@ -50,7 +49,7 @@ justify-content: space-between;
 
 }
 
-/* not optimaly fitting in mobile view */
+/*  Only displayed in larger screens    */
 #logo-image{
     display: none;
 }
@@ -104,8 +103,10 @@ nav {
 
 
 /* Main Content */
+
 main{
-    background-color: #4024df97;
+    /* background-color: #4024df97; */
+    background-color: #4024df;
     background-image: linear-gradient(to right, rgba(174, 162, 184, 0.5), rgba(174, 162, 184, 0.9));
     /*background-image: linear-gradient(to right, rgba(53, 48, 57, 0.2), rgba(112, 32, 177, 1) );*/
     /* Makes main element take up any surplus space to push footer down */
@@ -149,28 +150,24 @@ main{
     font-size: 20px;
 }
 
-main>div{
-    padding-top: 20px;
-    padding-bottom: 20px;
-
-}
 
 
-/* get started? */
+/* get started section */
 
 /* #get-started{
     display: flex;
     flex-direction: column;
     align-items: center;
-} */
+} 
 
-/* #get-started>h3{
+#get-started>h3{
     margin: 3rem 1rem 2rem;
     padding: 0px 5px 2px 5px;
     text-align: center;
     text-decoration: underline 1px solid #3a3a3a;
-} */
+}  */
 
+/* general button style */
 .link-button{
     text-decoration: none;
     border: 1px groove rgba(76, 6, 206, 0.5);
@@ -221,7 +218,7 @@ main>div{
 }
 
 
-/* about toggle */
+/* about toggle 
 #about-toggle:checked~#summary {
    display: block;
 }
@@ -233,19 +230,20 @@ main>div{
     font-size: 1.5rem;
     margin-left: 1rem;
 }
+ */
 
-/* about toggle */
 
 /* products page */
 
-
 #products-main{
     background-color: #4024df;
-    background-image: linear-gradient( to bottom right rgba(112, 32, 177, 0.5), rgba(76, 6, 206, 0.5));
+    /* background-image: linear-gradient( to bottom right, rgba(112, 32, 177, 0.5), rgba(76, 6, 206, 0.5)); */
     display: flex;
     align-items: normal;
 
 }
+
+/* Technologies section */
 
 #technologies{
     display: none;
@@ -257,8 +255,6 @@ main>div{
     display: flex;
     width: 100%;
 }
-
-
 
 
 #tech-points {
@@ -302,6 +298,7 @@ main>div{
 
 
 /* steps section */
+
 #steps{
     align-items: center;
     display: flex;
@@ -365,7 +362,7 @@ main>div{
     padding: 20px 10px;
 }
 
-#sites-form>section{
+#sites-form>div{
     flex-grow: 1;
 }
 
@@ -390,7 +387,8 @@ main>div{
     width: 15%;
     font-size: 0.9rem;
 } 
-/* form section */
+
+/* order form section */
 
 #form-section{
     margin-bottom: 50px;
@@ -490,9 +488,6 @@ textarea::placeholder{
     padding: 20px 10px;
 }
 
-#contact{
-    background-color: rgba(174, 162, 184, 0.5);
-}
 
 #contact-form{
     color: #ffffff;
@@ -580,7 +575,8 @@ footer i{
         display: inline-block;
     }
 
-    /* Main */
+    /* Main content*/
+
     /* push main content down to give space to larger header*/
     main{
         margin-top: 100px;
@@ -596,11 +592,15 @@ footer i{
         /* left: 50px; */
     }
 
+    .home-container{
+        width: 60%;
+    }
+
     #summary{
         display: block;
     }
 
-    /* product page */
+    /* Product Page */
     #technologies{
         display: flex;
         flex-direction: column;
@@ -635,6 +635,8 @@ footer i{
          padding: 0 20px; 
     }
 
+    /* Contact Page*/
+
     #contact{
         background-position: center;
         position: relative;
@@ -656,9 +658,9 @@ footer i{
         border-bottom: 1px solid #3a3a3a;
     }
 
-    #about-us{
+    /* #about-us{
         width: 60%;
-    }
+    } */
 
     #step-divs{
         width: 794px;
@@ -688,9 +690,9 @@ footer i{
         box-shadow: none;
     }
 
-    #get-started{
+    /* #get-started{
         width: 60%;
-    }
+    } */
 
     #get-started a{
         width: 300px;
