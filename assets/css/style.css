@@ -414,7 +414,15 @@ fieldset{
     margin: 10px 2px 5px 3px;
     background: transparent;
     border: 1px solid #fafafa;
-    width: 100%;
+    width: 80%;
+}
+
+input{
+    margin: 10px 2px 5px 3px;
+    padding: 2px;
+    border-radius: 1px;
+    background: transparent;
+    border: 1px solid #fafafa;
 }
 
 .color-input-divs{
@@ -458,6 +466,43 @@ textarea::placeholder{
 
 #sites-form>section{
     flex-grow: 1;
+}
+
+
+
+/* Contact page */
+
+#contact-main{
+    display: flex;
+    align-items: normal;
+}
+
+#contact{
+    background: url('../images/printing-3.png');
+    
+    background-size: cover;
+    flex-grow: 1;
+    padding: 20px 10px;
+}
+
+#contact{
+    background-color: rgba(174, 162, 184, 0.5);
+}
+
+#contact-form{
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.9);
+    padding: 20px;
+}
+
+#contact-form h2 {
+    margin-bottom: 15px;
+    color: #b8b8b8;
+}
+
+#contact-form>div{
+    margin: 15px 0;
+    line-height: 17px
 }
 
 
@@ -578,6 +623,18 @@ footer i{
 
     #sites-form{
          padding: 0 20px; 
+    }
+
+    #contact{
+        background-position: center;
+        position: relative;
+    }
+
+    #contact-form {
+        position: absolute;
+        max-width: 400px;
+        left: 10%;
+        top: 100px;
     }
 
     
