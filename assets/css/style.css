@@ -384,20 +384,15 @@ fieldset{
     width: unset;
 }
 
-/* input{
-    margin: 10px 2px 5px 3px;
-    padding: 2px;
-    border-radius: 1px;
-    background: transparent;
-    border: 1px solid #fafafa;
-    color: #ffffff;
-} */
 
 .color-input-divs{
     display: flex;
-    justify-content: space-evenly;
     text-align: center;
 }
+
+.input-group{
+    margin-right: 10px;
+} 
 
 .color-input-divs input{
     margin-top: 5px;
@@ -414,7 +409,6 @@ textarea::placeholder{
 
 .radio-buttons{
     display: flex;
-    justify-content: space-evenly;
     width: 100%;
 }
 
