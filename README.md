@@ -15,40 +15,50 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Services and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  
+  ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar.png)
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
+  - On a mobile screen, the navigation menu opens and closes with a toggle button.
+
+  ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
+  ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
+
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes an image of a 3D printer in operation. 
+  - This section shows a strong contrast of colors to enhance the impact of the user's visual experience.
+  - A text overlay that makes a play on words to highlight our mission to translate imagination into reality.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
 
-- __Club Ethos Section__
+- __Get Started Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This section includes a short description of what the user can expect from our services.
+  - A linked button that leads the user to our services page to get started.
+  - The button is a feature that allows easy navigation through our website.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
 
-- __Meetup Times section__
+- __About Us Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - In this section the user will get a chance to know more about our origin story.
+  - The text gives the user a closer idea about our identity as a company and introduces the team that carries our mission.
+  - This section is written in a non-formal language to provide the user with a friendly and emotionally close experience.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Imagine3D The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
 
-- __Gallery__
+- __Services__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
