@@ -1,14 +1,15 @@
-# Love Running
+# Imagine3D
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Welcome to Imagine3D, your gateway to a realm where creativity knows no bounds! At Imagine3D, we've crafted a haven for enthusiasts and visionaries alike, where your imagination transforms into tangible reality through the power of 3D printing. Whether you're an avid maker, a budding inventor, or someone with a penchant for unique creations, Imagine3D is your partner on the journey of bringing ideas to life.
+
+Picture this: a world where you dream it, and we print it. Our user-friendly platform is designed with you in mind, offering an extensive library of meticulously curated 3D printing models to suit a myriad of interests. From intricate decor pieces and functional prototypes to personalized gadgets and beyond, Imagine3D empowers you to print the extraordinary. Dive into a spectrum of possibilities, backed by cutting-edge technology and a community that shares your passion for innovation. Join us at Imagine3D, where every idea is a masterpiece waiting to be born. Let's turn your visions into reality, one layer at a time. 
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Our website includes various features that enhance its usability and promote a friendly user experience to help you navigate through our vision.
 
 ### Existing Features
 
