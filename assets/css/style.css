@@ -431,10 +431,11 @@ textarea::placeholder{
 
 #contact{
     background: url('../images/printing-3.png');
-    
     background-size: cover;
     flex-grow: 1;
     padding: 20px 10px;
+    display: flex;
+    align-items: center;
 }
 
 
@@ -591,10 +592,8 @@ footer i{
     }
 
     #contact-form {
-        position: absolute;
         max-width: 400px;
-        left: 10%;
-        top: 100px;
+        margin-left: 10%;
     }
 
     
