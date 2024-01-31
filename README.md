@@ -38,7 +38,7 @@ Our website includes various features that enhance its usability and promote a f
 - __Get Started Section__
 
   - This section includes a short description of what the user can expect from our services.
-  - A linked button that leads the user to our services page to get started.
+  - A linked button leads the user to our services page to get started. It also has a hover effect on laptops.
   - The button is a feature that allows easy navigation through our website.
 
 ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
@@ -56,14 +56,54 @@ Our website includes various features that enhance its usability and promote a f
   - The footer section includes links to the relevant social media sites for Imagine3D The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
+![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/.png)
 
-- __Services__
+- __Services Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The 'Services' page guides the user through the steps to order and receive our products.
+  - On tablets and larger screens, a 'Technologies' section appears, providing users with information about the technologies used by Imagine3D.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+
+- __Technoglies Section__
+
+  - This section only appears in tablets and larger screens by the use of media queries, since it has no functionalities. 
+  - It contains extra information about the technologies used by imagine3D to help give the user a deeper understanding of our process.
+
+![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
+
+  - On laptop screens and larger a video is included in this section
+
+![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
+
+
+- __Steps section__
+
+  - This section is a guide for the user on how to use our website and services.
+  - contains three step points. 'Choose Design', 'Fill Order Form', and 'Recieve and Enjoy'.
+  - When pressed on the first two steps the user will be transferred to the relevent sections.
+  
+  ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
+
+  - On a mobile screen, an image is included in this section to enhance the aesthetic and further captivate and excite the user.
+
+  ![Steps section mbile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image.png)
+
+
+
+- __Websites section__
+
+  - This section contains several websites that offer the user almost infinite ideas and models with STL files.
+  - An STL (Standard Tessellation Language) file is a common 3D file format used for 3D printing, representing a three-dimensional model as a collection of interconnected triangles.
+  - The word 'trusted' is used to help the user feel safe and confident when downloading files from the given websites.
+  
+  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
+
+
+  - __Form section__
+
+  - ...
+  
+  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
 
 - __The Sign Up Page__
 
