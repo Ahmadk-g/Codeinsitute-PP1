@@ -27,8 +27,8 @@ Our website includes various features that enhance its usability and promote a f
   - On a mobile screen, the navigation menu opens and closes with a toggle button.
 
 
-  ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
-  ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
+    ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
+    ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
 
 
 
@@ -42,7 +42,7 @@ Our website includes various features that enhance its usability and promote a f
   - A text overlay makes a play on words to highlight our mission of translating imagination into reality.
 
 
-  ![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
+    ![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
 
 
 
@@ -53,7 +53,7 @@ Our website includes various features that enhance its usability and promote a f
   - The button is a feature that allows easy navigation through our website.
 
 
-  ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
+    ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
 
 
 
@@ -64,7 +64,7 @@ Our website includes various features that enhance its usability and promote a f
   - This section is crafted in an informal tone, aiming to offer users a friendly and emotionally engaging experience.
 
 
-  ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
+    ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
 
 
 
@@ -74,7 +74,7 @@ Our website includes various features that enhance its usability and promote a f
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 
-  ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
+    ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
 
 
 
@@ -90,13 +90,13 @@ Our website includes various features that enhance its usability and promote a f
   - It contains extra information about the technologies used by Imagine3D to provide the user with a deeper understanding of our process.
 
 
-  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
+    ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
 
 
   - On laptop screens and larger, a video is included in this section.
 
 
-  ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
+    ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
 
 
 
@@ -107,13 +107,13 @@ Our website includes various features that enhance its usability and promote a f
   - When users click on the first two steps, they will be transferred to the relevant sections.
 
   
-  ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
+    ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
 
 
   - Enhancing the aesthetic and captivating the user, this section includes an image on mobile screens.
 
 
-  ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
+    ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
 
 
 
@@ -124,7 +124,7 @@ Our website includes various features that enhance its usability and promote a f
   - The term 'trusted' is used to help users feel safe and confident when downloading files from the provided websites.
   
 
-  ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
+    ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
 
 
 
@@ -134,13 +134,13 @@ Our website includes various features that enhance its usability and promote a f
   - The user is required to input the file URL into a text field and select the preferred colors and material.
   
 
-  ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/form-section.png)
+    ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/form-section.png)
 
 
   - On a laptop screen and larger, the two section align differently.
 
 
-  ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-form-section.png)
+    ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-form-section.png)
 
 
 
@@ -148,7 +148,7 @@ Our website includes various features that enhance its usability and promote a f
 
   - The Contact page is designed to be simple and direct for the user.
 
-  
+
 
 - __Contact page background__
 
@@ -156,7 +156,7 @@ Our website includes various features that enhance its usability and promote a f
   - The image consists of a 3D printer in operation, sharing the same context as the hero image on the landing page.
 
 
-  ![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/printing-3.png)
+    ![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/printing-3.png)
 
 
 
@@ -165,7 +165,7 @@ Our website includes various features that enhance its usability and promote a f
   - The contact form is available for users to submit any inquiries they may have.
 
 
-  ![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
+    ![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
 
 
 
