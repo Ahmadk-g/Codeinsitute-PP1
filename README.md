@@ -169,13 +169,12 @@ Our website includes various features that enhance its usability and promote a f
 
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- An extra file input in the order form for a 2D image drawn and uploaded by the user, enabling us to transform it into a 3D model.
+- A payment facility for users to make payments for the product."
+- Subscribe to newsletter checkbox.
 
 ## Testing 
 
