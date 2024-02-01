@@ -86,7 +86,7 @@ Our website includes various features that enhance its usability and promote a f
 
   - On a mobile screen, an image is included in this section to enhance the aesthetic and further captivate and excite the user.
 
-  ![Steps section mbile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image.png)
+  ![Steps section mbile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
 
 
 
