@@ -16,10 +16,11 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Services and Contact page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-  
-  ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar.png)
+  - Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, Services, and Contact page. It is identical on each page to allow for easy navigation.
+  - This section enables users to easily navigate from page to page across all devices without having to revert back to the previous page via the 'back' button.
+
+
+    ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar.png)
 
 
 
@@ -30,13 +31,15 @@ Our website includes various features that enhance its usability and promote a f
   ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
 
 
+
 ### Home Page 
+
 
 - __The landing page image__
 
-  - The landing includes an image of a 3D printer in operation. 
-  - This section shows a strong contrast of colors to enhance the impact of the user's visual experience.
-  - A text overlay that makes a play on words to highlight our mission to translate imagination into reality.
+  - The landing page includes an image of a 3D printer in operation. 
+  - This section features a strong contrast of colors to enhance the impact of the user's visual experience. 
+  - A text overlay makes a play on words to highlight our mission of translating imagination into reality.
 
 
   ![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
@@ -46,7 +49,7 @@ Our website includes various features that enhance its usability and promote a f
 - __Get Started Section__
 
   - This section includes a short description of what the user can expect from our services.
-  - A linked button leads the user to our services page to get started. It also has a hover effect on laptops.
+  - A linked button leads the user to our services page to get started, featuring a hover effect on laptops. 
   - The button is a feature that allows easy navigation through our website.
 
 
@@ -56,9 +59,9 @@ Our website includes various features that enhance its usability and promote a f
 
 - __About Us Section__
 
-  - In this section the user will get a chance to know more about our origin story.
+  - In this section, the user will get a chance to learn more about our origin story.
   - The text gives the user a closer idea about our identity as a company and introduces the team that carries our mission.
-  - This section is written in a non-formal language to provide the user with a friendly and emotionally close experience.
+  - This section is crafted in an informal tone, aiming to offer users a friendly and emotionally engaging experience.
 
 
   ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
@@ -68,7 +71,7 @@ Our website includes various features that enhance its usability and promote a f
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Imagine3D The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 
   ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
@@ -83,14 +86,14 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Technoglies Section__
 
-  - This section only appears in tablets and larger screens by the use of media queries, since it has no functionalities. 
-  - It contains extra information about the technologies used by imagine3D to help give the user a deeper understanding of our process.
+  - This section only appears on tablets and larger screens through the use of media queries, and it has no functionalities.
+  - It contains extra information about the technologies used by Imagine3D to provide the user with a deeper understanding of our process.
 
 
   ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
 
 
-  - On laptop screens and larger a video is included in this section
+  - On laptop screens and larger, a video is included in this section.
 
 
   ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
@@ -99,15 +102,15 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Steps section__
 
-  - This section is a guide for the user on how to use our website and services.
-  - contains three step points. 'Choose Design', 'Fill Order Form', and 'Recieve and Enjoy'.
-  - When pressed on the first two steps the user will be transferred to the relevent sections.
+  - This section serves as a guide for the user on how to use our website and services.
+  - It contains three step points. 'Choose Design', 'Fill Order Form', and 'Recieve and Enjoy'..
+  - When users click on the first two steps, they will be transferred to the relevant sections.
 
   
   ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
 
 
-  - On a mobile screen, an image is included in this section to enhance the aesthetic and further captivate and excite the user.
+  - Enhancing the aesthetic and captivating the user, this section includes an image on mobile screens.
 
 
   ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
@@ -116,9 +119,9 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Websites section__
 
-  - This section contains several websites that offer the user almost infinite ideas and models with STL files.
+  - This section features numerous websites offering users nearly limitless ideas and models with their associated STL files.
   - An STL (Standard Tessellation Language) file is a common 3D file format used for 3D printing, representing a three-dimensional model as a collection of interconnected triangles.
-  - The word 'trusted' is used to help the user feel safe and confident when downloading files from the given websites.
+  - The term 'trusted' is used to help users feel safe and confident when downloading files from the provided websites.
   
 
   ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
@@ -127,8 +130,8 @@ Our website includes various features that enhance its usability and promote a f
 
 - __Form section__
 
-  - The 'Order' form contains two fieldsets: one for customer details and the other for the desired product.
-  - The user needs to fill a text input with the URL of the file and choose the colors and material.
+  - The 'Order' form is divided into two fieldsets: one for customer details and the other for the desired product.
+  - The user is required to input the file URL into a text field and select the preferred colors and material.
   
 
   ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/form-section.png)
@@ -145,22 +148,24 @@ Our website includes various features that enhance its usability and promote a f
 
   - The Contact page is designed to be simple and direct for the user.
 
+  
+
 - __Contact page background__
 
-- With this image, I aimed to include the same color scheme and contrast intensity, providing the user with a similar feeling to the rest of the website.
-- The image consists of a 3D printer in operation, sharing the same context as the hero image on the landing page.
+  - With this image, I aimed to include the same color scheme and contrast intensity, providing the user with a similar feeling to the rest of the website.
+  - The image consists of a 3D printer in operation, sharing the same context as the hero image on the landing page.
 
 
-![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/printing-3.png)
+  ![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/printing-3.png)
 
 
 
 - __Contact Form__
 
-- The contact form is available for users to submit any inquiries they may have.
+  - The contact form is available for users to submit any inquiries they may have.
 
 
-![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
+  ![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
 
 
 
