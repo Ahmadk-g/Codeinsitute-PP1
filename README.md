@@ -13,6 +13,7 @@ Our website includes various features that enhance its usability and promote a f
 
 ### Existing Features
 
+
 - __Navigation Bar__
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Services and Contact page and is identical in each page to allow for easy navigation.
@@ -21,11 +22,15 @@ Our website includes various features that enhance its usability and promote a f
   ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar.png)
 
 
+
   - On a mobile screen, the navigation menu opens and closes with a toggle button.
+
 
   ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
   ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
 
+
+### Home Page 
 
 - __The landing page image__
 
@@ -33,7 +38,10 @@ Our website includes various features that enhance its usability and promote a f
   - This section shows a strong contrast of colors to enhance the impact of the user's visual experience.
   - A text overlay that makes a play on words to highlight our mission to translate imagination into reality.
 
-![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
+
+  ![Landing Page](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/hero-image.png)
+
+
 
 - __Get Started Section__
 
@@ -41,7 +49,10 @@ Our website includes various features that enhance its usability and promote a f
   - A linked button leads the user to our services page to get started. It also has a hover effect on laptops.
   - The button is a feature that allows easy navigation through our website.
 
-![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
+
+  ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
+
+
 
 - __About Us Section__
 
@@ -49,16 +60,22 @@ Our website includes various features that enhance its usability and promote a f
   - The text gives the user a closer idea about our identity as a company and introduces the team that carries our mission.
   - This section is written in a non-formal language to provide the user with a friendly and emotionally close experience.
 
-![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
+
+  ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
+
+
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Imagine3D The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
 
-- __Services Page__
+  ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
+
+
+
+### Services Page__
 
   - The 'Services' page guides the user through the steps to order and receive our products.
   - On tablets and larger screens, a 'Technologies' section appears, providing users with information about the technologies used by Imagine3D.
@@ -69,11 +86,15 @@ Our website includes various features that enhance its usability and promote a f
   - This section only appears in tablets and larger screens by the use of media queries, since it has no functionalities. 
   - It contains extra information about the technologies used by imagine3D to help give the user a deeper understanding of our process.
 
-![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
+
+  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
+
 
   - On laptop screens and larger a video is included in this section
 
-![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
+
+  ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
+
 
 
 - __Steps section__
@@ -81,12 +102,15 @@ Our website includes various features that enhance its usability and promote a f
   - This section is a guide for the user on how to use our website and services.
   - contains three step points. 'Choose Design', 'Fill Order Form', and 'Recieve and Enjoy'.
   - When pressed on the first two steps the user will be transferred to the relevent sections.
+
   
   ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
 
+
   - On a mobile screen, an image is included in this section to enhance the aesthetic and further captivate and excite the user.
 
-  ![Steps section mbile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
+
+  ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
 
 
 
@@ -96,20 +120,49 @@ Our website includes various features that enhance its usability and promote a f
   - An STL (Standard Tessellation Language) file is a common 3D file format used for 3D printing, representing a three-dimensional model as a collection of interconnected triangles.
   - The word 'trusted' is used to help the user feel safe and confident when downloading files from the given websites.
   
-  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
+
+  ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
+
 
 
   - __Form section__
 
-  - ...
+  - The 'Order' form contains two fieldsets: one for customer details and the other for the desired product.
+  - The user needs to fill a text input with the URL of the file and choose the colors and material.
   
-  ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
 
-- __The Sign Up Page__
+  ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/form-section.png)
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+  - On a laptop screen and larger, the two section align differently.
+
+
+  ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-form-section.png)
+
+
+
+### Contact Page
+
+- The Contact page is designed to be simple and direct for the user.
+
+- __Contact page background__
+
+- With this image, I aimed to include the same color scheme and contrast intensity, providing the user with a similar feeling to the rest of the website.
+- The image consists of a 3D printer in operation, sharing the same context as the hero image on the landing page.
+
+
+![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/3dprinter-contacthero.png)
+
+
+
+- __Contact Form__
+
+- The contact form is available for users to submit any inquiries they may have.
+
+
+![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
+
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
