@@ -56,7 +56,7 @@ Our website includes various features that enhance its usability and promote a f
   - The footer section includes links to the relevant social media sites for Imagine3D The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/.png)
+![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
 
 - __Services Page__
 
