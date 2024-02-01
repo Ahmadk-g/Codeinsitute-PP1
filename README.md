@@ -75,10 +75,10 @@ Our website includes various features that enhance its usability and promote a f
 
 
 
-### Services Page__
+### Services Page
 
-  - The 'Services' page guides the user through the steps to order and receive our products.
-  - On tablets and larger screens, a 'Technologies' section appears, providing users with information about the technologies used by Imagine3D.
+   - The 'Services' page guides the user through the steps to order and receive our products.
+   - On tablets and larger screens, a 'Technologies' section appears, providing users with information about the technologies used by Imagine3D.
 
 
 - __Technoglies Section__
@@ -125,7 +125,7 @@ Our website includes various features that enhance its usability and promote a f
 
 
 
-  - __Form section__
+- __Form section__
 
   - The 'Order' form contains two fieldsets: one for customer details and the other for the desired product.
   - The user needs to fill a text input with the URL of the file and choose the colors and material.
@@ -143,7 +143,7 @@ Our website includes various features that enhance its usability and promote a f
 
 ### Contact Page
 
-- The Contact page is designed to be simple and direct for the user.
+  - The Contact page is designed to be simple and direct for the user.
 
 - __Contact page background__
 
@@ -151,7 +151,7 @@ Our website includes various features that enhance its usability and promote a f
 - The image consists of a 3D printer in operation, sharing the same context as the hero image on the landing page.
 
 
-![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/3dprinter-contacthero.png)
+![Contact page background image](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/printing-3.png)
 
 
 
