@@ -27,7 +27,7 @@ Our website includes various features that enhance its usability and promote a f
   - On a mobile screen, the navigation menu opens and closes with a toggle button.
 
 
-    ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
+    ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/navbar-toggle.png)
     ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/navbar-toggle-open.png)
 
 
