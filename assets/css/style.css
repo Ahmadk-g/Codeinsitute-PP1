@@ -367,7 +367,6 @@ fieldset{
 }
 
  fieldset>div{
-    /* width: 90%; */
     margin: 15px 0;
     line-height: 17px;
 } 
@@ -578,17 +577,8 @@ footer i{
 
     #models div{
         width: 70%;
-        /* padding: 0px 12px; */
     }
 
-    /* #radio-buttons{
-        width: 60%;
-    } */
-
-    /* #sites-form{
-         padding: 0px;
-         margin: 20px 0;
-    } */
 
     /* Contact Page*/
 
@@ -667,21 +657,12 @@ footer i{
    #models div{
         width: 80%;
         max-width: 481px;
-        /* padding: 0px 12px; */
     }
 
     #sites-form>div{
         width: 50%;
     }
 
-    /* #order-form {
-        width: 90%; 
-        
-    } */
-
-    /* fieldset>div{
-        width: 60%;
-    } */
 
     #order-button:hover{
         box-shadow: none;
