@@ -177,6 +177,7 @@ Our website includes various features that enhance its usability and promote a f
 - Adress for delivery.
 - Subscribe to newsletter checkbox.
 - Add iframe in contact page of address.
+- Add form dump and thank you page.
 
 # Testing 
 
@@ -184,24 +185,23 @@ Our website includes various features that enhance its usability and promote a f
 
 ### HTML Validator
 
-Using [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) for testing & validating all the HTML code. 
+Using [W3C validator](https://validator.w3.org/#validate_by_input) for validating HTML code. 
 
-- Home Page results:
+- [Home Page results:](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fahmadk-g.github.io%2FCodeinsitute-PP1%2Findex.html)
 
   ![Home Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/index-valid.png)
 
-- Services Page results:
+- [Services Page results:](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fahmadk-g.github.io%2FCodeinsitute-PP1%2Fproduct.html)
 
   ![Services Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/product-valid.png)
-  
-- Contact Page results:
+
+- [Contact Page results:](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fahmadk-g.github.io%2FCodeinsitute-PP1%2FContact.html)
 
   ![Contact Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/contact-valid.png)
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+### CSS Validator
+
+Using [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/) for validating CSS code.
 
 ### Unfixed Bugs
 
