@@ -187,8 +187,11 @@ Our website includes various features that enhance its usability and promote a f
 Using [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) for testing & validating all the HTML code. 
 
 - Home Page results:
-
   ![Home Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/index-valid.png)
+- Services Page results:
+  ![Services Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/product-valid.png)
+- Contact Page results:
+  ![Contact Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/contact-valid.png)
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
