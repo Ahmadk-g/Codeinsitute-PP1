@@ -178,18 +178,17 @@ Our website includes various features that enhance its usability and promote a f
 - Subscribe to newsletter checkbox.
 - Add iframe in contact page of address.
 
-## Testing 
+# Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+## Validator Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### HTML Validator
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Using [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) for testing & validating all the HTML code. 
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- Home Page results:
 
-
-### Validator Testing 
+  ![Home Page validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/index-valid.png)
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
