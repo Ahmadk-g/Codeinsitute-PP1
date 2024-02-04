@@ -20,7 +20,7 @@ Our website includes various features that enhance its usability and promote a f
   - This section enables users to easily navigate from page to page across all devices without having to revert back to the previous page via the 'back' button.
 
 
-    ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar.png)
+    ![Nav Bar](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/navbar.png)
 
 
 
@@ -28,7 +28,7 @@ Our website includes various features that enhance its usability and promote a f
 
 
     ![Nav Bar mobile closed](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle.png)
-    ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/navbar-toggle-open.png)
+    ![Nav Bar mobile open](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/navbar-toggle-open.png)
 
 
 
@@ -53,7 +53,7 @@ Our website includes various features that enhance its usability and promote a f
   - The button is a feature that allows easy navigation through our website.
 
 
-    ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/getstarted.png)
+    ![Get Started](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/getstarted.png)
 
 
 
@@ -64,7 +64,7 @@ Our website includes various features that enhance its usability and promote a f
   - This section is crafted in an informal tone, aiming to offer users a friendly and emotionally engaging experience.
 
 
-    ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/aboutus.png)
+    ![About Us](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/aboutus.png)
 
 
 
@@ -74,7 +74,7 @@ Our website includes various features that enhance its usability and promote a f
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 
-    ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/footer.png)
+    ![Footer](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/footer.png)
 
 
 
@@ -90,13 +90,13 @@ Our website includes various features that enhance its usability and promote a f
   - It contains extra information about the technologies used by Imagine3D to provide the user with a deeper understanding of our process.
 
 
-    ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologies-section.png)
+    ![Technologies section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/technologies-section.png)
 
 
   - On laptop screens and larger, a video is included in this section.
 
 
-    ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/technologiesw-video.png)
+    ![Technologies section with video](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/technologiesw-video.png)
 
 
 
@@ -107,13 +107,13 @@ Our website includes various features that enhance its usability and promote a f
   - When users click on the first two steps, they will be transferred to the relevant sections.
 
   
-    ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/steps-section.png)
+    ![Steps section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/steps-section.png)
 
 
   - Enhancing the aesthetic and captivating the user, this section includes an image on mobile screens.
 
 
-    ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/stepsw-image-section.png)
+    ![Steps section mobile screen](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/stepsw-image-section.png)
 
 
 
@@ -124,7 +124,7 @@ Our website includes various features that enhance its usability and promote a f
   - The term 'trusted' is used to help users feel safe and confident when downloading files from the provided websites.
   
 
-    ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-section.png)
+    ![STL websites section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/sites-section.png)
 
 
 
@@ -134,13 +134,13 @@ Our website includes various features that enhance its usability and promote a f
   - The user is required to input the file URL into a text field and select the preferred colors and material.
   
 
-    ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/form-section.png)
+    ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/form-section.png)
 
 
   - On a laptop screen and larger, the two section align differently.
 
 
-    ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/sites-form-section.png)
+    ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/sites-form-section.png)
 
 
 
@@ -165,7 +165,7 @@ Our website includes various features that enhance its usability and promote a f
   - The contact form is available for users to submit any inquiries they may have.
 
 
-    ![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/inquiry-form.png)
+    ![Inquiry form](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/inquiry-form.png)
 
 
 
@@ -173,7 +173,8 @@ Our website includes various features that enhance its usability and promote a f
 ### Features Left to Implement
 
 - An extra file input in the order form for a 2D image drawn and uploaded by the user, enabling us to transform it into a 3D model.
-- A payment facility for users to make payments for the product."
+- Payement methods and prices.
+- Adress for delivery.
 - Subscribe to newsletter checkbox.
 - Add iframe in contact page of address.
 
