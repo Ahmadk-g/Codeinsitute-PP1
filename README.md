@@ -207,7 +207,7 @@ No Errors were returned when passing through [(Jigsaw) validator](https://jigsaw
 
   ![CSS validator](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/css-valid.png)
 
-## Performance Check
+## Lighthouse Performance Check
 
 Lighthouse in Chrome Developer Tools was used to check performance.
 
@@ -220,20 +220,30 @@ Lighthouse in Chrome Developer Tools was used to check performance.
 ![Desktop lighthouse results](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/desktop-lighthouse.png)
 
 
-### Unfixed Bugs
+## Manual Testing
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+All the points features mentioned below were tested manually.
+
+- Navigation bar - links
+- Footer - Social media links
+- Get started button
+- Steps redirecting buttons
+- links to 3D model sites
+- form input requirements 
+- form submissions
+
+
+
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/index.html
 
 
 ## Credits 
