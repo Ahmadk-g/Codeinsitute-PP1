@@ -248,6 +248,23 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 
 ## Credits 
 
+### Code
+ - boxshadow styling [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator)
+
+### icons
+ - Icon in header was taken from [Fontawesome](https://fontawesome.com/search)
+ - Icon for Facicon was taken from [Freepik](https://www.freepik.com/) and Favicon folder of different sizes of the icon was created via [Favicon generator](https://www.favicon-generator.org/) 
+
+### Media
+
+ - Wesbite images are taken from [Pexels](https://www.pexels.com/) and [Canva](https://www.canva.com/)
+ - Video in 'Services' page was taken from [Youtube](https://www.youtube.com/shorts/tbt1R1DKPYU?feature=share) and donwloaded as mp4 via [freemp4downloader](https://freemp4downloader.com/)
+ - [ui.dev](https://ui.dev/amiresponsive) was used to get a responsive image for README.
+
+
+ ### Color Palette 
+  - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.)
+
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
