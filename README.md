@@ -84,7 +84,7 @@ Our website includes various features that enhance its usability and promote a f
    - On tablets and larger screens, a 'Technologies' section appears, providing users with information about the technologies used by Imagine3D.
 
 
-- __Technoglies Section__
+- __Technologies Section__
 
   - This section only appears on tablets and larger screens through the use of media queries, and it has no functionalities.
   - It contains extra information about the technologies used by Imagine3D to provide the user with a deeper understanding of our process.
@@ -137,7 +137,7 @@ Our website includes various features that enhance its usability and promote a f
     ![Order form section](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/form-section.png)
 
 
-  - On a laptop screen and larger, the two section align differently.
+  - On a laptop screen and larger, the two sections align differently.
 
 
     ![Sites and Order form aligned](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/sites-form-section.png)
@@ -146,7 +146,7 @@ Our website includes various features that enhance its usability and promote a f
 
 ### Contact Page
 
-  - The Contact page is designed to be simple and direct for the user.
+The Contact page is designed to be simple and direct for the user.
 
 
 
@@ -170,7 +170,7 @@ Our website includes various features that enhance its usability and promote a f
 
 
 
-### Features Left to Implement
+### Features that can be implemented in the future
 
 - An extra file input in the order form for a 2D image drawn and uploaded by the user, enabling us to transform it into a 3D model.
 - Payement methods and prices.
@@ -224,13 +224,14 @@ Lighthouse in Chrome Developer Tools was used to check performance.
 
 All the points features mentioned below were tested manually.
 
-- Navigation bar - links
-- Footer - Social media links
-- Get started button
-- Steps redirecting buttons
-- links to 3D model sites
-- form input requirements 
-- form submissions
+- Navigation bar - links.
+- Footer - Social media links.
+- Get started button.
+- Steps redirecting buttons.
+- Links to 3D model sites.
+- Form input requirements. 
+- Form submissions.
+- Form submission page.
 
 
 
