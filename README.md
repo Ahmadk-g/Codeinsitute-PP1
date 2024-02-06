@@ -5,7 +5,7 @@ Welcome to Imagine3D, your gateway to a realm where creativity knows no bounds! 
 
 Picture this: a world where you dream it, and we print it. Our user-friendly platform is designed with you in mind, offering an extensive library of meticulously curated 3D printing models to suit a myriad of interests. From intricate decor pieces and functional prototypes to personalized gadgets and beyond, Imagine3D empowers you to print the extraordinary. Dive into a spectrum of possibilities, backed by cutting-edge technology and a community that shares your passion for innovation. Join us at Imagine3D, where every idea is a masterpiece waiting to be born. Let's turn your visions into reality, one layer at a time. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/am-i-responsive.png)
 
 ## Features 
 
