@@ -11,6 +11,7 @@
 }
 
 /*General styles*/
+
 body {
     min-height: 100vh;
     display: flex;
@@ -197,7 +198,7 @@ main{
 
 
 
-/* products page */
+/* Services page */
 
 #products-main{
     background-color: #4024df;

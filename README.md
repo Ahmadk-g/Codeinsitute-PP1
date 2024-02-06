@@ -237,7 +237,6 @@ All the points features mentioned below were tested manually.
 
 ## Deployment
 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
