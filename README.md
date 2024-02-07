@@ -17,7 +17,7 @@ Picture this: a world where you dream it, and we print it. Our user-friendly pla
 
 
  ### Color Scheme 
-  - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.)
+  - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.).
   - The color theme of the website was influenced by the Hero image and the Favicon. The base background color is #4024df.
   - Color of text varies between black (#1f1f1f) when there is a light background and white (#d5d5d5) when there is a darker background.
   - The background colors of buttons consist of various shades of purple, transitioning to a lighter shade when hovered over.
@@ -291,5 +291,6 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 ### Other
 
  - Reference for README [Love Running README](https://github.com/lucyrush/readme-love-running/blob/master/README.md)
+
 
 
