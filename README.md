@@ -8,6 +8,17 @@ Picture this: a world where you dream it, and we print it. Our user-friendly pla
 ![Responsice Mockup](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/am-i-responsive.png)
 
 
+## Key Project Goals
+
+The objective is to build an exceptionally user-friendly website that encourages users to explore our 3D-printing technologies and fosters excitement about both our vision and theirs. 
+
+
+## Target Audience 
+
+ - Individuals with a creative mindset, but lacking the necessary tools.
+ - Individuals seeking to discover their own solutions. 
+
+
  ## Design 
 
  ### Fonts
@@ -267,7 +278,7 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 
 ### Code
 
- - Reference code from [Love Running](https://ahmadk-g.github.io/Love-Running-site/index.html).
+ - Reference code for functioning Navigation bar and footer social media links from [Love Running](https://ahmadk-g.github.io/Love-Running-site/index.html).
  - Boxshadow styling [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator).
 
 ### Icons
