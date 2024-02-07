@@ -172,7 +172,7 @@ The Contact page is designed to be simple and direct for the user.
 
 ### Features that can be implemented in the future
 
-- An extra file input in the order form for a 2D image drawn and uploaded by the user, enabling us to transform it into a 3D model.
+- An extra file input in the 'Order' form for a 2D image drawn and to be uploaded by the user, enabling us to transform it into a 3D model.
 - Payement methods and prices.
 - Adress for delivery.
 - Subscribe to newsletter checkbox.
@@ -249,9 +249,12 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 ## Credits 
 
 ### Code
+
+ - Reference code from [Love Running](https://ahmadk-g.github.io/Love-Running-site/index.html) 
  - Boxshadow styling [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator)
 
 ### icons
+
  - Icon in header was taken from [Fontawesome](https://fontawesome.com/search)
  - Icon for Favicon was taken from [Freepik](https://www.freepik.com/).
  - Favicon folder of various sizes was created via [Favicon generator](https://www.favicon-generator.org/) 
@@ -262,22 +265,29 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
  - Video in 'Services' page was taken from [Youtube](https://www.youtube.com/shorts/tbt1R1DKPYU?feature=share) and donwloaded as mp4 via [freemp4downloader](https://freemp4downloader.com/)
  - [ui.dev](https://ui.dev/amiresponsive) was used to get a responsive image for README.
 
-### Text
+### Content
 
- - Almost all the text is written by the author 
+ - I, the author, have written all the content on the website.
+ - The content in 'Technologies' section was sourced from [Protolabs](https://www.protolabs.com/resources/blog/types-of-3d-printing/) and complemented by my own knowledge.
+ - Materials in 'Order' form are sourced from [Simplify3d](https://www.simplify3d.com/resources/materials-guide/).
+
+### Other
+
+ - Reference for README [Love Running README](https://github.com/lucyrush/readme-love-running/blob/master/README.md)
 
  ## Design 
 
  ### Fonts
-  - The Font used for Headers is 'Oswald'
-  - The font used for the rest of the texts is 'Chakra Petch'. 
-  - Sans Serif is set as a backup font, for the reason the chosed font does not load correctly.
+  - The font utilized for headers is 'Oswald'.
+  - The font used for the rest of the body text is 'Chakra Petch'.
+  - "Sans Serif is designated as a backup font in case the chosen font fails to load correctly."
+
 
  ### Color Scheme 
   - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.)
   - The color theme of the website was influenced by the Hero image and the Favicon. The base background color is #4024df.
-  - Color of text varies between black (#1f1f1f) when there is a light background, and white (#d5d5d5) when there is a darker background.
-  - linked buttons change to a lighter purple when hovered on
+  - Color of text varies between black (#1f1f1f) when there is a light background and white (#d5d5d5) when there is a darker background.
+  - The background colors of buttons consist of various shades of purple, transitioning to a lighter shade when hovered over.
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
