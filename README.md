@@ -7,6 +7,23 @@ Picture this: a world where you dream it, and we print it. Our user-friendly pla
 
 ![Responsice Mockup](https://github.com/Ahmadk-g/Codeinsitute-PP1/blob/main/assets/images/screenshots/am-i-responsive.png)
 
+
+ ## Design 
+
+ ### Fonts
+  - The font utilized for headers is 'Oswald'.
+  - The font used for the rest of the body text is 'Chakra Petch'.
+  - "Sans Serif is designated as a backup font in case the chosen font fails to load correctly."
+
+
+ ### Color Scheme 
+  - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.)
+  - The color theme of the website was influenced by the Hero image and the Favicon. The base background color is #4024df.
+  - Color of text varies between black (#1f1f1f) when there is a light background and white (#d5d5d5) when there is a darker background.
+  - The background colors of buttons consist of various shades of purple, transitioning to a lighter shade when hovered over.
+
+
+
 ## Features 
 
 Our website includes various features that enhance its usability and promote a friendly user experience to help you navigate through our vision.
@@ -250,14 +267,14 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 
 ### Code
 
- - Reference code from [Love Running](https://ahmadk-g.github.io/Love-Running-site/index.html) 
- - Boxshadow styling [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator)
+ - Reference code from [Love Running](https://ahmadk-g.github.io/Love-Running-site/index.html).
+ - Boxshadow styling [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator).
 
-### icons
+### Icons
 
- - Icon in header was taken from [Fontawesome](https://fontawesome.com/search)
+ - Icon in header was taken from [Fontawesome](https://fontawesome.com/search).
  - Icon for Favicon was taken from [Freepik](https://www.freepik.com/).
- - Favicon folder of various sizes was created via [Favicon generator](https://www.favicon-generator.org/) 
+ - Favicon folder of various sizes was created via [Favicon generator](https://www.favicon-generator.org/).
 
 ### Media
 
@@ -268,24 +285,11 @@ The live link can be found here - https://ahmadk-g.github.io/Codeinsitute-PP1/in
 ### Content
 
  - I, the author, have written all the content on the website.
- - The content in 'Technologies' section was sourced from [Protolabs](https://www.protolabs.com/resources/blog/types-of-3d-printing/) and complemented by my own knowledge.
- - Materials in 'Order' form are sourced from [Simplify3d](https://www.simplify3d.com/resources/materials-guide/).
+ - The content in 'Technologies' section was sourced from [Protolabs](https://www.protolabs.com/resources/blog/types-of-3d-printing/), rewritten by me, and complemented by my own knowledge.
+ - 'Materials' in 'Order' form are sourced from [Simplify3d](https://www.simplify3d.com/resources/materials-guide/).
 
 ### Other
 
  - Reference for README [Love Running README](https://github.com/lucyrush/readme-love-running/blob/master/README.md)
 
- ## Design 
-
- ### Fonts
-  - The font utilized for headers is 'Oswald'.
-  - The font used for the rest of the body text is 'Chakra Petch'.
-  - "Sans Serif is designated as a backup font in case the chosen font fails to load correctly."
-
-
- ### Color Scheme 
-  - Idea of making a gradient background was influenced from [Hostinger tutorials](https://www.hostinger.com/tutorials/website-color-schemes#:~:text=Blue%20Shades%20and%20White,white%20gradient%20as%20the%20background.)
-  - The color theme of the website was influenced by the Hero image and the Favicon. The base background color is #4024df.
-  - Color of text varies between black (#1f1f1f) when there is a light background and white (#d5d5d5) when there is a darker background.
-  - The background colors of buttons consist of various shades of purple, transitioning to a lighter shade when hovered over.
 
